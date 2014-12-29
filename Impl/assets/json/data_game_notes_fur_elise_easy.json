@@ -1,0 +1,286 @@
+{
+	"name" : "Fur Elise",
+	"difficulty" : "Easy",
+	"bpm" : 100,
+	"octave_base" : 5,
+	"beat_max" : 6,
+	"notes" : 
+	[
+		{
+			"x" : 360,
+			"scale" : "E",
+			"time" : "0",
+			"beat" : "0"
+		},
+		{
+			"x" : 320,
+			"scale" : "D#",
+			"time" : "0",
+			"beat" : "1"
+		},
+		{
+			"x" : 360,
+			"scale" : "E",
+			"time" : "0",
+			"beat" : "2"
+		},
+		{
+			"x" : 320,
+			"scale" : "D#",
+			"time" : "0",
+			"beat" : "3"
+		},
+		{
+			"x" : 360,
+			"scale" : "E",
+			"time" : "0",
+			"beat" : "4"
+		},
+		{
+			"x" : 320,
+			"scale" : "D#",
+			"time" : "0",
+			"beat" : "5"
+		},
+		
+		
+		
+		{
+			"x" : 360,
+			"scale" : "E",
+			"time" : "1",
+			"beat" : "0"
+		},
+		{
+			"x" : 320,
+			"scale" : "D#",
+			"time" : "1",
+			"beat" : "1"
+		},
+		{
+			"x" : 360,
+			"scale" : "E",
+			"time" : "1",
+			"beat" : "2"
+		},
+		{
+			"x" : 260,
+			"scale" : "B",
+			"time" : "1",
+			"beat" : "3",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 320,
+			"scale" : "D",
+			"time" : "1",
+			"beat" : "4"
+		},
+		{
+			"x" : 290,
+			"scale" : "C",
+			"time" : "1",
+			"beat" : "5"
+		},
+		
+		
+		{
+			"x" : 240,
+			"scale" : "A",
+			"time" : "2",
+			"beat" : "0",
+			"octave_offset" : "-1"
+		},
+		
+		{
+			"x" : 80,
+			"scale" : "C",
+			"time" : "2",
+			"beat" : "3",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 160,
+			"scale" : "E",
+			"time" : "2",
+			"beat" : "4",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 240,
+			"scale" : "A",
+			"time" : "2",
+			"beat" : "5",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 280,
+			"scale" : "B",
+			"time" : "3",
+			"beat" : "0",
+			"octave_offset" : "-1"
+		},
+		
+		
+		{
+			"x" : 160,
+			"scale" : "E",
+			"time" : "3",
+			"beat" : "3",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 220,
+			"scale" : "G#",
+			"time" : "3",
+			"beat" : "4",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 280,
+			"scale" : "B",
+			"time" : "3",
+			"beat" : "5",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 320,
+			"scale" : "C",
+			"time" : "4",
+			"beat" : "0"
+		},
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		{
+			"x" : 360,
+			"scale" : "E",
+			"time" : "4",
+			"beat" : "4"
+		},
+		{
+			"x" : 320,
+			"scale" : "D#",
+			"time" : "4",
+			"beat" : "5"
+		},
+		
+		
+		
+		{
+			"x" : 360,
+			"scale" : "E",
+			"time" : "5",
+			"beat" : "0"
+		},
+		{
+			"x" : 320,
+			"scale" : "D#",
+			"time" : "5",
+			"beat" : "1"
+		},
+		{
+			"x" : 360,
+			"scale" : "E",
+			"time" : "5",
+			"beat" : "2"
+		},
+		{
+			"x" : 260,
+			"scale" : "B",
+			"time" : "5",
+			"beat" : "3",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 320,
+			"scale" : "D",
+			"time" : "5",
+			"beat" : "4"
+		},
+		{
+			"x" : 290,
+			"scale" : "C",
+			"time" : "5",
+			"beat" : "5"
+		},
+		
+		
+		{
+			"x" : 240,
+			"scale" : "A",
+			"time" : "6",
+			"beat" : "0",
+			"octave_offset" : "-1"
+		},
+		
+		{
+			"x" : 80,
+			"scale" : "C",
+			"time" : "6",
+			"beat" : "3",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 160,
+			"scale" : "E",
+			"time" : "6",
+			"beat" : "4",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 240,
+			"scale" : "A",
+			"time" : "6",
+			"beat" : "5",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 280,
+			"scale" : "B",
+			"time" : "7",
+			"beat" : "0",
+			"octave_offset" : "-1"
+		},
+		
+		
+		{
+			"x" : 160,
+			"scale" : "E",
+			"time" : "7",
+			"beat" : "3",
+			"octave_offset" : "-1"
+		},
+		
+		
+		{
+			"x" : 320,
+			"scale" : "C",
+			"time" : "7",
+			"beat" : "4"
+		},
+		{
+			"x" : 280,
+			"scale" : "B",
+			"time" : "7",
+			"beat" : "5",
+			"octave_offset" : "-1"
+		},
+		{
+			"x" : 240,
+			"scale" : "A",
+			"time" : "8",
+			"beat" : "0",
+			"octave_offset" : "-1"
+		}
+		
+				
+	]
+}

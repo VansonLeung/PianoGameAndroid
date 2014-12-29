@@ -1,0 +1,127 @@
+{
+	"name" : "Piano",
+	"instrumentName" : "piano",
+	"prefix" : "piano_",
+	"assets" : [
+		{
+			"name" : "piano_a4",
+			"suffix" : "a4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_a#4",
+			"suffix" : "a#4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_b4",
+			"suffix" : "b4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_c4",
+			"suffix" : "c4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_c#4",
+			"suffix" : "c#4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_d4",
+			"suffix" : "d4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_d#4",
+			"suffix" : "d#4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_e4",
+			"suffix" : "e4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_f4",
+			"suffix" : "f4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_f#4",
+			"suffix" : "f#4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_g4",
+			"suffix" : "g4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_g#4",
+			"suffix" : "g#4",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_a5",
+			"suffix" : "a5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_a#5",
+			"suffix" : "a#5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_b5",
+			"suffix" : "b5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_c5",
+			"suffix" : "c5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_c#5",
+			"suffix" : "c#5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_d5",
+			"suffix" : "d5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_d#5",
+			"suffix" : "d#5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_e5",
+			"suffix" : "e5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_f5",
+			"suffix" : "f5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_f#5",
+			"suffix" : "f#5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_g5",
+			"suffix" : "g5",
+			"ext" : "wav"
+		},
+		{
+			"name" : "piano_g#5",
+			"suffix" : "g#5",
+			"ext" : "wav"
+		}
+	]
+}
